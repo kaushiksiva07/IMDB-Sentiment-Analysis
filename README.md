@@ -6,7 +6,7 @@ The folder contains training and test data split up into postiive and negative r
 [[id]_[rating].txt]
 
 ### Instructions
-First run 'Combine AclImdb Folder Reviews and Scores' in order to consolidate the positive and negative reviews into a new txt file for each testing and training dataset. Additionally the code takes the IMDB rating from the file names and creates a new file with all the ratings. These new files can then be used in 'IMDB Sentiment Analysis' 
+First run 'Combine AclImdb Folder Reviews and Scores' in order to consolidate the positive and negative reviews into a new text file for each testing and training dataset. Additionally the code takes the IMDB rating from the file names and creates a new file with all the ratings. These new files can then be used in 'IMDB Sentiment Analysis' 
 to be used in the model.
 
 ### Resources
